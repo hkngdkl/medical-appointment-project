@@ -1,0 +1,4 @@
+scheduled_days_ahead,appointment_dayofweek,is_weekend,sex_encoded,age_group_encoded
+4,1,0,1,5
+10,4,0,0,8
+2,2,0,1,3
